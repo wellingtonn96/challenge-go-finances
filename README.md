@@ -30,7 +30,7 @@ This app features all the latest tools and practices in web development!
 
 ### Getting started with the backend server
 
-1. Move yourself to the frontend folder: `cd server/`
+1. Move yourself to the backend folder: `cd server/`
 2. Create the database in the Postgres
 3. Configure the database in the `ormconfig.json` file
 4. Run migrations with the command `yarn typeorm migration:run`
