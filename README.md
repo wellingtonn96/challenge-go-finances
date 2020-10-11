@@ -23,7 +23,7 @@ This app features all the latest tools and practices in mobile development!
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - :blue_book: **Typescript** — TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.
 - 💹 **Node Js** — A open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser
-- - :blue_book: **Postgres** PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
+- :blue_book: **Postgres** PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
 
 ## Getting started
 
