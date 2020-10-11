@@ -1,8 +1,5 @@
 <h1 align="center">
 <br>
-  <img src="./assets/logo.svg" alt="Go Finances">
-<br>
-<br>
 Go Finances
 </h1>
 
@@ -18,7 +15,7 @@ Go Finances
 
 ## Features
 
-This app features all the latest tools and practices in mobile development!
+This app features all the latest tools and practices in web development!
 
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - :blue_book: **Typescript** — TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.
@@ -33,15 +30,16 @@ This app features all the latest tools and practices in mobile development!
 
 ### Getting started with the backend server
 
-1. Create the database in the Postgres
-2. Configure the database in the `ormconfig.json` file
-3. Run migrations with the command `yarn typeorm migration:run`
-4. Run `yarn dev:server` to start the server
-5. Test the application with the command `yarn test`
+1. Move yourself to the frontend folder: `cd server/`
+2. Create the database in the Postgres
+3. Configure the database in the `ormconfig.json` file
+4. Run migrations with the command `yarn typeorm migration:run`
+5. Run `yarn dev:server` to start the server
+6. Test the application with the command `yarn test`
 
 ### Getting started with the frontend app
 
-1. Move yourself to the frontend folder: `cd web`
+1. Move yourself to the frontend folder: `cd web/`
 2. Run `yarn install` to install the dependencies
 3. Run `yarn start` to start the web application
 1. Test the application with the command `yarn test`
